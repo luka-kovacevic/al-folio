@@ -1,10 +1,13 @@
 ---
-layout: page
-permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+noteId: "39c7ae10cea411eeab958dd670889144"
+tags: []
+layout: "page"
+permalink: "/repositories/"
+title: "repositories"
+description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories."
 nav: false
 nav_order: 4
+
 ---
 
 ## GitHub users

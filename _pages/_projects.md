@@ -1,12 +1,17 @@
 ---
-layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+noteId: "37072e80cea411eeab958dd670889144"
+tags: []
+layout: "page"
+title: "projects"
+permalink: "/projects/"
+description: "A growing collection of your cool projects."
 nav: false
 nav_order: 3
-display_categories: [work, fun]
+display_categories:
+  - "work"
+  - "fun"
 horizontal: false
+
 ---
 
 <!-- pages/projects.md -->
